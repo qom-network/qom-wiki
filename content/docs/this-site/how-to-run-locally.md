@@ -7,9 +7,12 @@ next:
 
 ### Pre-requisites
 ---
-- [Hugo](https://gohugo.io/getting-started/installing/)
-- [Go](https://golang.org/doc/install)
 - [Git](https://git-scm.com)
+- [Go](https://golang.org/doc/install)
+- [Hugo](https://gohugo.io/getting-started/installing/)
+
+*Note: Make sure you have installed all the required tools before proceeding.*
+
 
 
 ### Run the site locally
