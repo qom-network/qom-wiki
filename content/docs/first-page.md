@@ -1,7 +1,7 @@
 ---
 title: Demo Page
 type: docs
-prev: /
+prev: how-to-run-locally
 next: docs/folder/
 ---
 
