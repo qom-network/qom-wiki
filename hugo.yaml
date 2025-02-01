@@ -1,6 +1,10 @@
 # Hugo configuration file
 title: QOM Documentation
 
+params:
+  dominio1: "docs.qom.network"
+  dominio2: "teh.qom.wiki"
+
 # import hextra as module
 module:
   imports:

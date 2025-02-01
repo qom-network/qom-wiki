@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Site.Title }}</title>
+</head>
+<body>
+   {{ block "main" . }}
+      {{ $currentDomain := .Site.Params.dominio1 }}
+      {{ if eq .Site.BaseURL "https://teh.qom.wiki/" }}
+         {{ $currentDomain = .Site.Params.dominio2 }}
+      {{ end }}
+
+      {{ if eq $currentDomain "docs.qom.network" }}
+         <h1>Bienvenido a Dominio 1</h1>
+         {{ with .Site.GetPage "domains/wiki-qom-network/_index.md" }}
+         {{ .Content }}
+      {{ end }}
+         {{ else if eq $currentDomain "teh.qom.wiki" }}
+            <h1>Bienvenido a Dominio 2</h1>
+            {{ with .Site.GetPage "domains/teh-qom-wiki/_index.md" }}
+            {{ .Content }}
+         {{ end }}
+      {{ else }}
+         <!-- Manejar caso por defecto o error -->
+         <h1>Error: Dominio no reconocido</h1>
+      {{ end }}
+   {{ end }}
+</body>
+</html>
