@@ -1,9 +1,9 @@
 ---
-title: QOM Network Wiki
+title: Wiki de la Red QOM
 toc: false
 ---
 
-# QL1 Community Documentation
+# Documentación Comunitaria de QL1
 **QOM (Quantum Operating Machine)** es un movimiento hacia la libertad y el desarrollo comunitario. Aquí, en **QL1**, nuestra blockchain, encontrarás la documentación técnica y recursos para construir el futuro. 
 ## Explora QL1 
 - **[Acerca de QOM y QL1](about-qom.md)**: Nuestra misión y la tecnología que nos impulsa.

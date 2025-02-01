@@ -54,3 +54,13 @@ params:
   editURL:
     enable: true
     base: "https://github.com/qom-network/qom-docs/edit/main/content"
+
+# enable multi-language
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 2
