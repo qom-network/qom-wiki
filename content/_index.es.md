@@ -1,17 +1,20 @@
 ---
-title: Wiki de la Red QOM
+title: Teh QOM Wiki
 toc: false
 ---
+# Entra en Teh QOM Wiki
 
-# Documentación Comunitaria de QL1
-**QOM (Quantum Operating Machine)** es un movimiento hacia la libertad y el desarrollo comunitario. Aquí, en **QL1**, nuestra blockchain, encontrarás la documentación técnica y recursos para construir el futuro. 
-## Explora QL1 
-- **[Acerca de QOM y QL1](about-qom.md)**: Nuestra misión y la tecnología que nos impulsa.
-- **[Guías de Usuario](user-guides.md)**: Comienza a interactuar con QL1.
-- **[Documentación Técnica](docs.md)**: Recursos para desarrolladores.
-- **[Proyectos e Iniciativas](projects.md)**: Lo que está construyéndose en QL1.
-- **[Historia y Actualizaciones](network-history.md)**: El viaje de QL1 hasta ahora. 
-## Participa en el Desarrollo
-Juntos estamos construyendo una nueva era de tecnología y libertad. Contribuye, aprende y crece con nosotros. 
---- 
-Para una experiencia más informal y comunitaria, visita [Teh QOM Wiki](index-teh-qom-wiki/).
+¡Bienvenidos al rincón más vibrante de la comunidad de **QOM**! Aquí, en **Teh QOM Wiki**, celebramos el espíritu libre del ciberespacio y las maravillas de **QL1**, nuestra blockchain. 
+## Vive QOM 
+
+- **[Acerca de Teh QOM Wiki y QOM](about-teh-qom-wiki.md)**: Qué es este lugar y por qué estamos aquí. 
+- **[Guía del Usuario](user-interaction.md)**: Aprende a moverte en el mundo de QL1. 
+- **[Para los Creadores](docs.md)**: Herramientas para construir tus sueños en QL1. 
+- **[Proyectos Legendarios](projects.md)**: Donde la innovación se encuentra con la comunidad. 
+- **[La Historia de QL1](network-history.md)**: Desde sus inicios hasta lo que vendrá. 
+
+## Sé Parte de la Comunidad
+
+Teh QOM Wiki es tu espacio para compartir, aprender y construir. ¡Únete a nosotros en esta aventura de código abierto y libertad! 
+
+*Para una visión más formal y técnica, visita la [Wiki Comunitaria de QOM](https://wiki.qom.network/).*
