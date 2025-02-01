@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: Teh QOM Wiki
 toc: false
 ---
 # Entra en Teh QOM Wiki
@@ -13,4 +13,4 @@ toc: false
 ## Sé Parte de la Comunidad 
 Teh QOM Wiki es tu espacio para compartir, aprender y construir. ¡Únete a nosotros en esta aventura de código abierto y libertad! 
 --- 
-Para una visión más formal y técnica, visita la [Wiki Oficial de QOM](index-qom.md).
+Para una visión más formal y técnica, visita la [Wiki Oficial de QOM](/).
