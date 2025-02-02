@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: QOM Documentation
+title: Q Wiki
 
 # import hextra as module
 module:
@@ -18,26 +18,17 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/qom-network"
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 1
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 2
       url: "https://github.com/qom-network/qom-docs"
       params:
         icon: github
     - name: Twitter
-      weight: 6
+      weight: 3
       url: "https://twitter.com/"
       params:
         icon: x-twitter
@@ -45,7 +36,7 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: true
+    displayLogo: false
 
   footer:
     displayCopyright: false
@@ -55,12 +46,17 @@ params:
     enable: true
     base: "https://github.com/qom-network/qom-docs/edit/main/content"
 
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
 # enable multi-language
-defaultContentLanguage: en
-languages:
-  en:
-    languageName: English
-    weight: 1
-  es:
-    languageName: Español
-    weight: 2
+# defaultContentLanguage: en
+# languages:
+#   en:
+#     languageName: English
+#     weight: 1
+#   es:
+#     languageName: Español
+#     weight: 2

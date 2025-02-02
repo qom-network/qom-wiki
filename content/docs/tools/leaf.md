@@ -1,7 +1,7 @@
 ---
-title: Leaf Page
+title: Tools
 type: docs
-prev: docs/folder/
+prev: 
 ---
 
 This page is under a folder.
