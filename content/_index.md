@@ -36,7 +36,6 @@ Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wo
   {{< hextra/feature-card
     title="User Interaction"
     subtitle="Learn to navigate the world of QL1."
-    link="user-interaction"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="images/nodes.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
@@ -55,7 +54,6 @@ Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wo
 
   {{< hextra/feature-card
     title="For Creators"
-    link="docs"
     subtitle="Tools to build your dreams on QL1."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/nodes.jpg"
@@ -66,11 +64,17 @@ Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wo
   {{< hextra/feature-card
     title="Legendary Projects"
     subtitle="Where innovation meets community."
+    image="images/nodes.jpg"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="The History of QL1"
     subtitle="From its beginnings to what's coming."
+    image="images/nodes.jpg"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 
 {{< /hextra/feature-grid >}}

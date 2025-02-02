@@ -1,5 +1,5 @@
 ---
-title: dApps
+title: Decentralized Applications
 type: docs
 prev: 
 next: 
@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-Pages can be organized into folders.
+Dive into DeFi, gaming, NFTs, DAOs, and beyond.

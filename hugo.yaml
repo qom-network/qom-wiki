@@ -52,11 +52,11 @@ params:
     displayToggle: true
 
 # enable multi-language
-defaultContentLanguage: en
-languages:
-  en:
-    languageName: English
-    weight: 1
-  es:
-    languageName: Español
-    weight: 2
+# defaultContentLanguage: en
+# languages:
+#   en:
+#     languageName: English
+#     weight: 1
+#   es:
+#     languageName: Español
+#     weight: 2
