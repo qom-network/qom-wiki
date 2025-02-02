@@ -34,12 +34,23 @@ Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wo
   >}}
 
   {{< hextra/feature-card
-    title="User Guide"
+    title="User Interaction"
     subtitle="Learn to navigate the world of QL1."
+    link="user-interaction"
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
     image="images/nodes.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(142,53,74,0.15),hsla(0,0%,100%,0));"
+  >}}
+
+  {{< hextra/feature-card
+    title="Decentralized Applications"
+    link="dapps"
+    subtitle="Explore DeFi, gaming, NFTs, DAOs, and more."
+    class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
+    image="images/fox-contract-checker.png"
+    imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
+    style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
