@@ -1,8 +1,9 @@
 ---
 title: QOM Network Wiki
 toc: false
+layout: "index-teh-wiki"
 ---
-# QL1 Community Documentation
+## QL1 Community Documentation
 
 **QOM (Quantum Operating Machine)** is a movement towards freedom and community development. Here you'll find the technical documentation and resources about **QL1**, our blockchain, to build the future. 
 ## Explore QL1
