@@ -1,5 +1,5 @@
 ---
-title: FoxxBot Wiki  
+title: FoxxBot
 type: docs
 ---
 ## Introduction to FoxxBot

@@ -1,5 +1,5 @@
 ---
-title: About Docs
+title: Wiki
 type: docs
 prev: docs/first-page
 next: docs/this-site/how-to-run-locally
