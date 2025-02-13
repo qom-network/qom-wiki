@@ -4,18 +4,18 @@ layout: "index-teh-wiki"
 ---
 
 <div class="hx-mt-6 hx-mb-6">
-<h1>
-{{< hextra/hero-headline >}}
-Teh QOM Wiki
-{{< /hextra/hero-headline >}}
-</h1>
+  <h1>
+  {{< hextra/hero-headline >}}
+  Teh QOM Wiki
+  {{< /hextra/hero-headline >}}
+  </h1>
 </div>
 
 <div class="hx-mb-12">
-{{< hextra/hero-subtitle >}}
-**QOM (Quantum Operating Machine)** is a movement towards freedom and community development.&nbsp;<br class="sm:hx-block hx-hidden" />
-Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wonders of **QL1**, our blockchain. 
-{{< /hextra/hero-subtitle >}}
+  {{< hextra/hero-subtitle >}}
+  **QOM (Quantum Operating Machine)** is a movement towards freedom and community development.&nbsp;<br class="sm:hx-block hx-hidden" />
+  Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wonders of **QL1**, our blockchain. 
+  {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
@@ -44,7 +44,7 @@ Here, at **Teh QOM Wiki**, we celebrate the free spirit of cyberspace and the wo
 
   {{< hextra/feature-card
     title="Decentralized Applications"
-    link="dapps"
+    link="docs/dapps"
     subtitle="Explore DeFi, gaming, NFTs, DAOs, and more."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/fox-contract-checker.png"
