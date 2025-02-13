@@ -19,7 +19,7 @@ layout: "index-teh-wiki"
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Explore Documentation" link="docs" >}}
+{{< hextra/hero-button text="Explore Documentation" link="docs/wiki" >}}
 </div>
 
 {{< hextra/feature-grid >}}
