@@ -63,8 +63,9 @@ layout: "index-teh-wiki"
 
   {{< hextra/feature-card
     title="Legendary Projects"
+    link="docs/legendary"
     subtitle="Where innovation meets community."
-    image="images/nodes.jpg"
+    image="images/Qom-network0.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
