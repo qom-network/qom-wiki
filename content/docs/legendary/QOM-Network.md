@@ -1,6 +1,6 @@
 # QOM Network: Rebels of the Infinite Improbability Drive
 
-![QOM-network1.JPG](../../images/QOM-network1.JPG)
+![QOM-network1.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network1.JPG)
 ## 🗺️ Overview
 
  **QOM Network** is a decentralized network and ecosystem that redefines online presence, integrating with  [**Quantum Operating Machine (QOM)**][QOM], a movement toward freedom and community development powered by its blockchain, [**QOM Layer 1 (QL1)**] [QOM]. 
@@ -20,7 +20,7 @@
 - **QOM Network Core**: The heart of the experience, where users create websites, register domains, and manage digital assets with user-friendly tools, supported by distributed storage and an integrated web server that eliminates reliance on external infrastructure.
 
 
-![QOM-network2.JPG](../../images/QOM-network2.JPG)
+![QOM-network2.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network2.JPG)
 
 ## 🤝 Relationship with QOM
 
@@ -57,7 +57,7 @@ The [**BabelFish Protocol**][BabelFish Protocol] establishes a new model for the
 **BabelFish** provides a robust framework for developers, offering an intuitive API to access data and operations across **QL1** and other blockchains. A suite of Web3 applications delivers advanced functions, from resource management to interactive experiences, catering to both expert and beginner builders. Dynamic, user-friendly tools and resources enable developers to create innovative solutions, ensuring **BabelFish** remains a fertile ground for decentralized innovation.
 
 
-![QOM-network3.JPG](../../images/QOM-network3.JPG)
+![QOM-network3.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network3.JPG)
 
 ## 🤑 Network Incentives
 
@@ -67,7 +67,7 @@ Participants who maintain and support **BabelFish** by running nodes and contrib
 
 **BabelFish** operates as an independent internet layer, fully aligned with cyberpunk philosophy, managing its own implementation, architecture, and tools. It provides users with a completely anonymous and free ecosystem, free from hidden logs, navigation tracking, or private data collection. Content built within **BabelFish** is guaranteed to remain immutable and anonymous, preserved forever in the ecosystem’s decentralized infrastructure. The ecosystem encompasses all essential internet infrastructure components, including proprietary DNS resolution, storage management, addressing, email, services, APIs, and developer resources for both experts and beginners. Dynamic, interactive, and user-friendly interfaces ensure that anyone can create their own online space without requiring advanced technical knowledge. **BabelFish** commits to making digital presence a right, not a privilege, providing cyberpunks and all users with the tools needed to thrive in a sovereign cyberspace.
 
-##  🔑 Key Features
+## 🔑 Key Features
 
 - **Sovereign Internet**: **BabelFish** offers a new decentralized internet layer, free from centralized control, with proprietary DNS resolution and indexing systems that enable users to navigate and access digital resources in an autonomous cyberspace.
 - **Comprehensive Infrastructure**: Provides a complete infrastructure for building and scaling digital solutions, from websites to enterprise applications, supported by distributed storage, integrated servers, and advanced development tools, comparable to platforms like Amazon Web Services.
@@ -91,7 +91,7 @@ Participants who maintain and support **BabelFish** by running nodes and contrib
 
 Inspired by the universe of Douglas Adams, **BabelFish** is a vibrant ecosystem powered by the **BabelFish Protocol**, uniting digital worlds with universal connectivity and offering practicality like a galactic towel. We are freedom fighters, guided by the cyberpunk principles of the [*Cypherpunk's Manifesto*][A Cypherpunk's Manifesto], the [*Crypto-Anarchist Manifesto*][The Crypto Anarchist Manifesto], the [*Declaration of Independence of Cyberspace*][A Declaration of the Independence of Cyberspace]:, and the legacy of Satoshi Nakamoto. **BabelFish** is a tool for cypherpunks seeking a sovereign cyberspace, where users, from novices to experts, create, collaborate, and thrive without restrictions.
 
----
+
 
 [QOM]: https://wiki.qom.network/
 [Deep Thought Computer]:https://deep-thought.computer/
