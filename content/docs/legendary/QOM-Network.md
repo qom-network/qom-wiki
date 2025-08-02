@@ -3,7 +3,7 @@
 ![QOM-network1.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network1.JPG)
 ## 🗺️ Overview
 
- **QOM Network** is a decentralized network and ecosystem that redefines online presence, integrating with  [**Quantum Operating Machine (QOM)**][QOM], a movement toward freedom and community development powered by its blockchain, [**QOM Layer 1 (QL1)**] [QOM]. 
+ **QOM Network** is a decentralized network and ecosystem that redefines online presence, integrating with  [**Quantum Operating Machine (QOM)**][QOM], a movement toward freedom and community development powered by its blockchain, [**QOM Layer 1 (QL1)**][QOM]. 
  Developed by [**Deep Thought Labs**, The Research and Development Center][Deep Thought Computer] , a laboratory where cryptography, philosophy, and imagination converge to build a sovereign cyberspace, **QOM Network** is built on the [**BabelFish Protocol**][BabelFish Protocol], a decentralized system that connects nodes without centralized entities. 
  The **BabelFish Protocol** provides the foundational technology, while **QOM Network** is the ecosystem that enables users to create websites, manage digital assets, participate in shared economies, and connect with **QL1** and other blockchains such as **Bitcoin** or **Ethereum**. 
  In this document, we use **BabelFish** to refer to the unified ecosystem, specifying **BabelFish Protocol** or **QOM Network** only when necessary, with protocol details available in its official documentation. **BabelFish** offers intuitive tools and rewards, creating a unified environment that empowers users and amplifies the **QOM** ecosystem as a collaborative sibling project.
