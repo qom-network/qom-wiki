@@ -72,6 +72,7 @@ layout: "index-teh-wiki"
 
   {{< hextra/feature-card
     title="The History of QL1"
+    link="docs/history"
     subtitle="From its beginnings to what's coming."
     image="images/nodes.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
