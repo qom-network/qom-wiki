@@ -1,49 +1,74 @@
-# BabelFish Network: Rebels of the Infinite Improbability Drive
+# QOM Network: Rebels of the Infinite Improbability Drive
 
-## Overview
-**BabelFish Network** is a decentralized network and ecosystem that redefines online presence, integrating with  [**Quantum Operating Machine (QOM)**](https://wiki.qom.network), a movement toward freedom and community development powered by its blockchain, **QOM Layer 1 (QL1)** (https://wiki.qom.network). Developed by **Deep Thought Labs**, The Research and Development Center (https://deep-thought.computer), a laboratory where cryptography, philosophy, and imagination converge to build a sovereign cyberspace, **BabelFish Network** is built on the **BabelFish Protocol** (https://deep-thought.computer/projects/babelfish/), a decentralized system that connects nodes without centralized entities. The **BabelFish Protocol** provides the foundational technology, while **BabelFish Network** is the ecosystem that enables users to create websites, manage digital assets, participate in shared economies, and connect with **QL1** and other blockchains such as **Bitcoin** or **Ethereum**. In this document, we use **BabelFish** to refer to the unified ecosystem, specifying **BabelFish Protocol** or **BabelFish Network** only when necessary, with protocol details available in its official documentation. **BabelFish** offers intuitive tools and rewards, creating a unified environment that empowers users and amplifies the **QOM** ecosystem as a collaborative sibling project.
+![QOM-network1.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network1.JPG)
+## 🗺️ Overview
 
-## System Structure
-**BabelFish Network** operates as a decentralized P2P network connecting multiple user-managed nodes, known as **BabelFish Nodes**, which contribute storage, validation, and domain resolution to blockchain addresses. The network dynamically expands as users add nodes through the platform, enabling interoperability with **QL1** and other blockchains, such as **Bitcoin** or **Ethereum**. **BabelFish Network** internally manages its own data and processing, acting as a comprehensive layer for infrastructure, data, and computation that optimizes costs by separating obligations from underlying blockchains. This leverages **QL1**’s strengths—speed, cost-efficiency, and decentralization—while our network handles intensive processing, adding versatility and operability to the ecosystem. The essential components are:
+ **QOM Network** is a decentralized network and ecosystem that redefines online presence, integrating with  [**Quantum Operating Machine (QOM)**][QOM], a movement toward freedom and community development powered by its blockchain, [**QOM Layer 1 (QL1)**][QOM]. 
+ Developed by [**Deep Thought Labs**, The Research and Development Center][Deep Thought Computer] , a laboratory where cryptography, philosophy, and imagination converge to build a sovereign cyberspace, **QOM Network** is built on the [**BabelFish Protocol**][BabelFish Protocol], a decentralized system that connects nodes without centralized entities. 
+ The **BabelFish Protocol** provides the foundational technology, while **QOM Network** is the ecosystem that enables users to create websites, manage digital assets, participate in shared economies, and connect with **QL1** and other blockchains such as **Bitcoin** or **Ethereum**. 
+ In this document, we use **BabelFish** to refer to the unified ecosystem, specifying **BabelFish Protocol** or **QOM Network** only when necessary, with protocol details available in its official documentation. **BabelFish** offers intuitive tools and rewards, creating a unified environment that empowers users and amplifies the **QOM** ecosystem as a collaborative sibling project.
+
+## 🕋 System Structure
+
+**QOM Network** operates as a decentralized P2P network connecting multiple user-managed nodes, known as **BabelFish Nodes**, which contribute storage, validation, and domain resolution to blockchain addresses. The network dynamically expands as users add nodes through the platform, enabling interoperability with **QL1** and other blockchains, such as **Bitcoin** or **Ethereum**. **QOM Network** internally manages its own data and processing, acting as a comprehensive layer for infrastructure, data, and computation that optimizes costs by separating obligations from underlying blockchains. This leverages **QL1**’s strengths—speed, cost-efficiency, and decentralization—while our network handles intensive processing, adding versatility and operability to the ecosystem. The essential components are:
 
 - **Security and Data Management System**: Manages security, data storage, and transport, ensuring reliable and protected communications with strict rules to safeguard the network’s integrity.
-- **Synchronization Engine**: Keeps the ecosystem updated, tracking tokens, addresses, and states in real-time across **BabelFish Network**, **QL1**, and other chains, ensuring seamless operation.
+- **Synchronization Engine**: Keeps the ecosystem updated, tracking tokens, addresses, and states in real-time across **QOM Network**, **QL1**, and other chains, ensuring seamless operation.
 - **Proprietary DNS Resolution**: Provides a decentralized domain name resolution system, connecting domains to blockchain addresses without relying on centralized entities like ICANN, enabling a sovereign internet.
 - **Proprietary Indexing**: Implements a decentralized indexing system to catalog and access digital resources, supporting proprietary platforms for the development and production of internet services and infrastructure.
 - **Control Panel**: A section where users view all their assets (tokens of **BabelFish**, QOM, Bitcoin, Ethereum, etc.), in read-only or active management modes, providing centralized control.
-- **BabelFish Network Core**: The heart of the experience, where users create websites, register domains, and manage digital assets with user-friendly tools, supported by distributed storage and an integrated web server that eliminates reliance on external infrastructure.
+- **QOM Network Core**: The heart of the experience, where users create websites, register domains, and manage digital assets with user-friendly tools, supported by distributed storage and an integrated web server that eliminates reliance on external infrastructure.
 
-## Relationship with QOM
+
+![QOM-network2.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network2.JPG)
+
+## 🤝 Relationship with QOM
+
 **BabelFish** collaborates with **QOM** validators, strengthening their ecosystem without replacing it, as sibling projects that grow together. Users can interoperably use **QL1 tokens** (native to **QOM**) and **BabelFish** tokens to access services, participate in joint liquidity pools, or contribute to governance. For example, a user can use **QL1 tokens** to register a domain on our network or combine them with our tokens in pools to earn shared rewards. This integration creates a collaborative mesh where **QOM** and **BabelFish** mutually enhance each other, expanding the reach of both ecosystems and connecting users to other blockchains.
 
-## Quantum Operating Machine (QOM)
-**Quantum Operating Machine (QOM)** (https://wiki.qom.network) is a movement toward freedom and community development, powered by its **QL1** blockchain. Inspired by principles of decentralization and sovereignty, **QOM** seeks to build a future where technology empowers communities without intermediaries. Its **QL1** blockchain offers speed, cost-efficiency, and decentralization, providing a robust foundation for decentralized applications and economies. As a sibling project to **BabelFish**, **QOM** shares the cyberpunk vision of a sovereign cyberspace, and its integration with **BabelFish** enables users to leverage the strengths of both platforms, creating a unified ecosystem that fosters innovation, collaboration, and digital freedom.
+## 🦅 Quantum Operating Machine (QOM)
 
-## The BabelFish Protocol
-The **BabelFish Protocol** (https://deep-thought.computer/projects/babelfish/) establishes a new model for the internet, connecting devices directly to blockchains through local nodes, known as **BabelFish Nodes**, installed on users’ devices. These nodes form a supermesh of decentralized networks, resolving domain names to blockchain addresses via smart contracts and enabling access to digital resources without intermediaries. By running these nodes, users expand and strengthen blockchain networks, interconnecting blockchain ecosystems through P2P networks, creating a sovereign cyberspace free from technical and political controls. Users who run nodes and bolster the ecosystem receive rewards through a monetary redistribution system, with details to be outlined in a dedicated document. Each user decides their level of contribution, from running a node to becoming a validator, fostering a sovereign digital ecosystem. The protocol enables interoperability between **QL1** and other blockchains, creating a bridge that eliminates dependence on centralized entities.
+[**Quantum Operating Machine (QOM)**][QOM]  is a movement toward freedom and community development, powered by its **QL1** blockchain. Inspired by principles of decentralization and sovereignty, **QOM** seeks to build a future where technology empowers communities without intermediaries. Its **QL1** blockchain offers speed, cost-efficiency, and decentralization, providing a robust foundation for decentralized applications and economies. As a sibling project to **BabelFish**, **QOM** shares the cyberpunk vision of a sovereign cyberspace, and its integration with **BabelFish** enables users to leverage the strengths of both platforms, creating a unified ecosystem that fosters innovation, collaboration, and digital freedom.
 
-## Global Infrastructure for All
+## 🐟 The BabelFish Protocol
+
+The [**BabelFish Protocol**][BabelFish Protocol] establishes a new model for the internet, connecting devices directly to blockchains through local nodes, known as **BabelFish Nodes**, installed on users’ devices. These nodes form a supermesh of decentralized networks, resolving domain names to blockchain addresses via smart contracts and enabling access to digital resources without intermediaries. By running these nodes, users expand and strengthen blockchain networks, interconnecting blockchain ecosystems through P2P networks, creating a sovereign cyberspace free from technical and political controls. Users who run nodes and bolster the ecosystem receive rewards through a monetary redistribution system, with details to be outlined in a dedicated document. Each user decides their level of contribution, from running a node to becoming a validator, fostering a sovereign digital ecosystem. The protocol enables interoperability between **QL1** and other blockchains, creating a bridge that eliminates dependence on centralized entities.
+
+
+
+## 🌏 Global Infrastructure for All
+
 **BabelFish** provides decentralized, industrial-grade infrastructure for individuals, entrepreneurs, and enterprises, supporting projects at all levels: amateur, professional, and industrial. Powered by hundreds of millions of **BabelFish Nodes** distributed globally, the ecosystem leverages the collective computational power, capacity, and resources of its users to create a robust and scalable foundation. Comparable to leading providers like Amazon Web Services, Oracle, or Microsoft Azure, **BabelFish** offers comprehensive IT infrastructure, cloud solutions, virtualization, AI agents, and automation services. This infrastructure empowers users to build and scale their digital presence, from personal projects to enterprise-grade applications, in a fully decentralized and anonymous environment. By democratizing access to cutting-edge technology, **BabelFish** ensures that everyone, from individual creators to global businesses, can thrive in a sovereign digital landscape, embodying the cyberpunk ethos of universal empowerment.
 
-## Decentralized Web Creation
+## 🌐 Decentralized Web Creation
+
 **BabelFish** empowers users to create their own digital presence through intuitive tools for registering domains and building websites on a decentralized web. Supported by distributed storage and an integrated web server, these tools combine traditional usability with robust security, ensuring immutability and anonymity for all content created. Designed for novices and experts, the platform makes establishing an online space a right, not a privilege, aligning with **BabelFish**’s commitment to universal access and cyberpunk ideals of freedom.
 
-## Open Economic Ecosystem
+## 💱 Open Economic Ecosystem
+
 **BabelFish** fosters a global, open marketplace where users freely trade any type of service or product, from domains and storage to art, consulting, or digital goods. Transactions are powered by a utility token specific to **BabelFish**, alongside **QL1 tokens** or external tokens, creating a vibrant, decentralized economy. The platform also supports collaborative projects, such as NFTs or campaigns, where creators launch joint initiatives and share rewards, reinforcing **BabelFish**’s role as a hub for innovation and economic freedom.
 
-## Community Governance
+## 🏛️ Community Governance
+
 **BabelFish** is driven by its users through a collaborative governance model. Participants holding **BabelFish** tokens can influence decisions on new services, reward structures, and ecosystem development, fostering a sense of ownership. This decentralized approach ensures the ecosystem evolves in alignment with community needs, embodying the cyberpunk principle of power to the people.
 
-## Developer Ecosystem
+## 💻 Developer Ecosystem
+
 **BabelFish** provides a robust framework for developers, offering an intuitive API to access data and operations across **QL1** and other blockchains. A suite of Web3 applications delivers advanced functions, from resource management to interactive experiences, catering to both expert and beginner builders. Dynamic, user-friendly tools and resources enable developers to create innovative solutions, ensuring **BabelFish** remains a fertile ground for decentralized innovation.
 
-## Network Incentives
+
+![QOM-network3.JPG](https://loveforqom.github.io/QL1JAPAN/images/QOM-network3.JPG)
+
+## 🤑 Network Incentives
+
 Participants who maintain and support **BabelFish** by running nodes and contributing storage, processing, and availability are rewarded based on their level of contribution. Each user decides how much to contribute, and rewards are calculated accordingly, distributed in a utility token specific to **BabelFish**. This token can be used to pay for services or products within the ecosystem, alongside **QL1 tokens** or external tokens. Through a gamified mechanism, participants can achieve different levels, unlocking greater rewards, including passive income opportunities.
 
-## Independent and Anonymous Internet Layer
+## 👽 Independent and Anonymous Internet Layer
+
 **BabelFish** operates as an independent internet layer, fully aligned with cyberpunk philosophy, managing its own implementation, architecture, and tools. It provides users with a completely anonymous and free ecosystem, free from hidden logs, navigation tracking, or private data collection. Content built within **BabelFish** is guaranteed to remain immutable and anonymous, preserved forever in the ecosystem’s decentralized infrastructure. The ecosystem encompasses all essential internet infrastructure components, including proprietary DNS resolution, storage management, addressing, email, services, APIs, and developer resources for both experts and beginners. Dynamic, interactive, and user-friendly interfaces ensure that anyone can create their own online space without requiring advanced technical knowledge. **BabelFish** commits to making digital presence a right, not a privilege, providing cyberpunks and all users with the tools needed to thrive in a sovereign cyberspace.
 
-## Key Features
+## 🔑 Key Features
+
 - **Sovereign Internet**: **BabelFish** offers a new decentralized internet layer, free from centralized control, with proprietary DNS resolution and indexing systems that enable users to navigate and access digital resources in an autonomous cyberspace.
 - **Comprehensive Infrastructure**: Provides a complete infrastructure for building and scaling digital solutions, from websites to enterprise applications, supported by distributed storage, integrated servers, and advanced development tools, comparable to platforms like Amazon Web Services.
 - **Innovative Decentralized Network**: Establishes a global network fork, powered by millions of **BabelFish Nodes**, redefining connectivity by interconnecting blockchain ecosystems through P2P networks, ensuring autonomy and resilience.
@@ -52,7 +77,8 @@ Participants who maintain and support **BabelFish** by running nodes and contrib
 - **Learning Rewards**: Educational missions for new users, granting tokens for learning about pools, domains, or the **QOM** ecosystem, lowering entry barriers and fostering adoption.
 - **Ambassador Program**: Rewards users who promote projects in the **QOM** and **BabelFish** ecosystems with tokens or exclusive benefits, strengthening the community and expanding its reach.
 
-## Benefits for Users
+## 💰 Benefits for Users
+
 - **Accessibility**: Direct entry with fiat or Bitcoin, user-friendly interfaces, and tools that simplify digital content creation, enabling any user to establish an online presence without technical barriers.
 - **Interoperability**: Seamless use of **QL1 tokens** and **BabelFish** tokens in services, pools, and governance, connecting with other chains like **Bitcoin** or **Ethereum**, for an integrated and borderless experience.
 - **Sovereign Infrastructure**: Access to a decentralized digital infrastructure that allows users to build and scale projects of any size, from personal initiatives to enterprise applications, with complete anonymity and control.
@@ -61,5 +87,15 @@ Participants who maintain and support **BabelFish** by running nodes and contrib
 - **Community**: Gamified incentives, such as levels and rewards, that engage users and strengthen the project mesh with **QOM**, promoting a collaborative and active community.
 - **Empowerment**: Users control their assets, establish an online presence, and participate in a collaborative ecosystem with real impact, backed by infrastructure that ensures digital freedom and sovereignty.
 
-## Philosophy
-Inspired by the universe of Douglas Adams, **BabelFish** is a vibrant ecosystem powered by the **BabelFish Protocol**, uniting digital worlds with universal connectivity and offering practicality like a galactic towel. We are freedom fighters, guided by the cyberpunk principles of the *Cyberpunk Manifesto*, the *Crypto-Anarchist Manifesto*, the *Declaration of Independence of Cyberspace*, and the legacy of Satoshi Nakamoto. **BabelFish** is a tool for cyberpunks seeking a sovereign cyberspace, where users, from novices to experts, create, collaborate, and thrive without restrictions.
+## 🤖 Philosophy
+
+Inspired by the universe of Douglas Adams, **BabelFish** is a vibrant ecosystem powered by the **BabelFish Protocol**, uniting digital worlds with universal connectivity and offering practicality like a galactic towel. We are freedom fighters, guided by the cyberpunk principles of the [*Cypherpunk's Manifesto*][A Cypherpunk's Manifesto], the [*Crypto-Anarchist Manifesto*][The Crypto Anarchist Manifesto], the [*Declaration of Independence of Cyberspace*][A Declaration of the Independence of Cyberspace]:, and the legacy of Satoshi Nakamoto. **BabelFish** is a tool for cypherpunks seeking a sovereign cyberspace, where users, from novices to experts, create, collaborate, and thrive without restrictions.
+
+
+
+[QOM]: https://wiki.qom.network/
+[Deep Thought Computer]:https://deep-thought.computer/
+[BabelFish Protocol]: https://deep-thought.computer/projects/babelfish/
+[A Cypherpunk's Manifesto]:https://www.activism.net/cypherpunk/manifesto.html
+[The Crypto Anarchist Manifesto]:https://www.activism.net/cypherpunk/crypto-anarchy.html
+[A Declaration of the Independence of Cyberspace]:https://web.archive.org/web/20131023143120/https://projects.eff.org/~barlow/Declaration-Final.html
