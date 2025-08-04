@@ -54,7 +54,8 @@ layout: "index-teh-wiki"
 
   {{< hextra/feature-card
     title="For Creators"
-    subtitle="Tools to build your dreams on QL1."
+    link="docs/creators"
+    subtitle="Tools and guides to build your dreams on QL1."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
     image="images/nodes.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
