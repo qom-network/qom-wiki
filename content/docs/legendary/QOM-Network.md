@@ -14,6 +14,7 @@ Developed by [**Deep Thought Labs**][Deep Thought Computer], the Research and De
 - **QOM Network**: The ecosystem and platform built using the BabelFish Protocol (originated from the QOM community)
 - **QOM (Quantum Operating Machine)**: The community movement and CTO project
 - **QL1 (QOM Layer 1)**: The blockchain that powers the QOM ecosystem
+- **Algorithmic Token**: The innovative liquidity token and monetary system of QOM Network
 
 The **BabelFish Protocol** provides the foundational technology, while **QOM Network** is the practical implementation that enables users to create websites, manage digital assets, participate in shared economies, and connect with **QL1** blockchain and other blockchains such as **Bitcoin** or **Ethereum**. 
 In this document, we'll be specific about which component we're discussing to avoid confusion. The **BabelFish Protocol** technical details are available in its official documentation. **QOM Network** offers intuitive tools and rewards, creating a unified environment that empowers users and amplifies the **QOM** ecosystem as a collaborative sibling project.
@@ -51,12 +52,15 @@ The network dynamically expands as users add nodes through the platform, enablin
 
 ### Token Interoperability
 
-Users can interoperably use **QL1 tokens** (native to the QL1 blockchain) and **QOM Network** tokens to access services, participate in joint liquidity pools, or contribute to governance.
+Users can interoperably use **QL1 tokens** (native to the QL1 blockchain), **QOM Network's algorithmic token**, and other ecosystem tokens to access services, participate in joint liquidity pools, or contribute to governance.
 
 For example:
-- Use **QL1 tokens** to register a domain on QOM Network
-- Combine QOM Network tokens with QL1 tokens in pools to earn shared rewards
-- Participate in governance across both ecosystems
+- Use **QL1 tokens** or **QOM Network's algorithmic token** to register a domain on QOM Network
+- Combine different ecosystem tokens in liquidity pools to earn shared rewards
+- Participate in governance across both ecosystems using any compatible token
+- Access services using **QOM Network's native algorithmic token**, which powers the platform economy
+
+*Note: QOM Network's algorithmic token operates with unique mechanics designed for ecosystem stability and active participation. Full details will be available in a dedicated technical document (publication pending).*
 
 This integration creates a collaborative mesh where **QOM** (the community project) and **QOM Network** mutually enhance each other, expanding the reach of both ecosystems and connecting users to other blockchains.
 
@@ -181,7 +185,7 @@ Designed for novices and experts, the platform makes establishing an online spac
 
 ### Multi-Tier Economy
 
-**Community Marketplace**: Users freely trade services and products using **QOM Network** utility tokens, alongside **QL1 tokens** or external tokens, creating a vibrant, decentralized economy.
+**Community Marketplace**: Users freely trade services and products using **QOM Network's algorithmic token**, **QL1 tokens**, and other compatible tokens, creating a vibrant, decentralized economy powered by innovative tokenomics.
 
 **Professional Services Market**: QOM Network offers premium services directly to consumers and businesses:
 - Managed hosting solutions
@@ -232,11 +236,33 @@ Participants who maintain and support **QOM Network** by running nodes and contr
 
 ### Reward Structure
 
-Each user decides how much to contribute, and rewards are calculated accordingly, distributed in **QOM Network** utility tokens. This token can be used to pay for services or products within the ecosystem, alongside **QL1 tokens** or external tokens.
+Each user decides how much to contribute, and rewards are calculated accordingly, distributed primarily in **QOM Network's algorithmic token**—an innovative liquidity token designed to incentivize active participation. These tokens can be used to pay for services or products within the ecosystem, participate in liquidity pools, or trade alongside **QL1 tokens** and external tokens.
 
 ### Gamified Levels
 
 Through a gamified mechanism, participants can achieve different levels, unlocking greater rewards, including passive income opportunities.
+
+## 🪙 The Algorithmic Monetary System
+
+**QOM Network** is powered by an innovative algorithmic liquidity token that serves as the backbone of the ecosystem's economy. This token represents a paradigm shift in tokenomics, designed specifically for stability, sustainability, and active participation.
+
+### Key Features
+
+**QOM Network's algorithmic token** operates with unique mechanics that distinguish it from traditional tokens:
+- **Algorithmic Issuance**: Tokens are generated to reward network participants who contribute resources
+- **Dynamic Burning**: Tokens spent on services are burned, maintaining economic balance
+- **Liquidity Pool Integration**: Designed to work seamlessly with liquidity pools for enhanced stability
+- **Gamified Interface**: Visual representation that makes token management intuitive and engaging
+
+### Economic Innovation
+
+The **algorithmic token system** creates a self-regulating economy where:
+- Network contributors are rewarded proportionally to their participation
+- Service consumption naturally balances token supply through burning mechanisms
+- Liquidity pools enhance price stability and provide passive income opportunities
+- Cross-token compatibility strengthens the entire QOM ecosystem
+
+*For comprehensive details on the algorithmic token mechanics, tokenomics, and implementation, see the dedicated technical white paper (publication pending).*
 
 ## 👽 Independent and Anonymous Internet Layer
 
