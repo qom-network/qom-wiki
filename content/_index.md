@@ -63,14 +63,16 @@ layout: "index-teh-wiki"
 
   {{< hextra/feature-card
     title="Legendary Projects"
+    link="docs/legendary"
     subtitle="Where innovation meets community."
-    image="images/nodes.jpg"
+    image="images/QOM-network0.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(221,210,59,0.15),hsla(0,0%,100%,0));"
   >}}
 
   {{< hextra/feature-card
     title="The History of QL1"
+    link="docs/history"
     subtitle="From its beginnings to what's coming."
     image="images/nodes.jpg"
     imageClass="hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
