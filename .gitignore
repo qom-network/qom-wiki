@@ -5,6 +5,8 @@ resources/
 
 # Editor
 .vscode/
+.claude/
+claude.md
 
 # Obsidian
 .obsidian/workspace.json
