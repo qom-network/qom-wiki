@@ -1,0 +1,11 @@
+name = "qom-wiki"
+compatibility_date = "2025-08-04"
+workers_dev = true
+
+[assets]
+directory = "public"  
+html_handling = "auto-trailing-slash"
+not_found_handling = "404-page"
+
+[build]
+command = "hugo --minify --gc" 
