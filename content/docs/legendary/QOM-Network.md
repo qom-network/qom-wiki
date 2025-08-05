@@ -332,6 +332,14 @@ We are freedom fighters, guided by the cyberpunk principles of:
 
 **QOM Network** is a tool for cypherpunks seeking a sovereign cyberspace, where users, from novices to experts, create, collaborate, and thrive without restrictions.
 
+## 👥 About the Authors
+
+This whitepaper has been conceptualized, planned, and authored by the research team at **Deep Thought Labs**, a laboratory dedicated to advancing decentralized technologies through the intersection of cryptography, philosophy, and innovative system design.
+
+Deep Thought Labs serves as the Research and Development Center where imagination converges with technical excellence to build sovereign cyberspace solutions. The team combines deep expertise in blockchain technology, decentralized systems, and cyberpunk philosophy to create tools that empower digital freedom and community sovereignty.
+
+For more information about Deep Thought Labs and their research initiatives, visit [deep-thought.computer][Deep Thought Computer].
+
 
 
 [QOM]: https://qom.wiki
