@@ -66,7 +66,7 @@ sidebar:
 
 ## 2️⃣ Fork the Hello World repository from GitHub and set up GitHub Pages
 
-If you're new to GitHub, please complete registration and initial setup using a [**Beginner’s guide**](../GitGuide) before proceeding to the next steps.
+If you're new to GitHub, please complete registration and initial setup using a [**Beginner’s guide**](../gitguide) before proceeding to the next steps.
 
 
 > **Hello-World Repository:**  
@@ -113,7 +113,7 @@ If you're unfamiliar with building websites and unsure what to do next, the foll
 ### **📝 Code Editor**
 Use a code editor to modify files. Any editor is fine, but [**Visual Studio Code**](https://code.visualstudio.com/) is recommended due to its free extensions and ease of use.
 
-You’ll also begin using Terminal or PowerShell more frequently as development progresses. If you're unfamiliar with command-line tools, check out a basic [**CLI tutorial**](../HowToUseCLI) 
+You’ll also begin using Terminal or PowerShell more frequently as development progresses. If you're unfamiliar with command-line tools, check out a basic [**CLI tutorial**](../howtousecli) 
 
 ---
 
