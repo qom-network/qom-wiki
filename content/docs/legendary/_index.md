@@ -9,4 +9,4 @@ sidebar:
 
 Where innovation meets community.
 
-[QOM Network](QOM-Network)
+- ### [QOM Network: Rebels of the Infinite Improbability Drive](QOM-Network)

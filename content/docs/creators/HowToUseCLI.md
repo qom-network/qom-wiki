@@ -1,5 +1,5 @@
 ---
-title: How to Use CLI
+title: Basic Usage Of CLI for Beginners
 date: 2025-07-01 00:00:00+00:00
 draft: false
 toc: false
@@ -9,11 +9,9 @@ tags:
 
 ## Frequently Used Terminal Commands (Mac/Windows)
 
-In this section, we'll introduce commonly used terminal commands. Since Mac and Windows use different commands, we'll only focus on a few that are frequently used on both platforms. Try entering each command in your terminal (Mac) or PowerShell (Windows) as you read through the explanations.
+In this section, we'll introduce commonly used terminal commands. Since Mac and Windows use different commands, we'll only focus on a few that are frequently used on both platforms. Try entering each command in your terminal (Mac) or PowerShell (Windows) as you read through the explanations.  
+There are many more useful commands—feel free to explore and learn beyond this list!  
 
-There are many more useful commands—feel free to explore and learn beyond this list!
-
----
 
 ### `pwd`
 
@@ -27,7 +25,6 @@ $ pwd
 
 → Shows your current location within your computer's file system.
 
----
 
 ### `cd`
 
@@ -62,7 +59,6 @@ $ cd desktop/test
 If the specified directory doesn't exist, you'll get an error:  
 `No such file or directory`.
 
----
 
 ### `mkdir`
 
@@ -76,9 +72,8 @@ $ cd desktop
 $ mkdir test
 ```
 
-→ This will create a new folder called `test` on your desktop.
-
----
+→ This will create a new folder called `test` on your desktop.  
+  
 
 ### `touch` (Mac/Linux) / `New-Item` (PowerShell)
 
@@ -96,7 +91,6 @@ $ New-Item memo.md
 
 → A new file named `memo.md` will be created in the current folder.
 
----
 
 ### `ls`
 
@@ -111,7 +105,7 @@ $ ls test
 
 → Displays the contents of the `test` directory. You should see the `memo.md` file you created earlier.
 
----
+
 
 Once you understand these commands, try the following exercise:
 
