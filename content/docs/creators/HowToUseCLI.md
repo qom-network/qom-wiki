@@ -1,11 +1,12 @@
 ---
 title: Basic Usage Of CLI for Beginners
-date: 2025-07-01 00:00:00+00:00
-draft: false
-toc: false
-images:
-tags: 
+type: docs
+prev: 
+next: 
+sidebar:
+  open: true
 ---
+
 
 ## Frequently Used Terminal Commands (Mac/Windows)
 

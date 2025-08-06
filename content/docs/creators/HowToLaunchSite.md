@@ -1,8 +1,12 @@
-+++
-title = "Way to launch your site 🦅"
-date = "2025-07-09"
+---
+title: Way to launch your site 🦅
+type: docs
+prev: 
+next: 
+sidebar:
+  open: true
+---
 
-+++
 
 ## 1️⃣  **Install BabelFish**
   

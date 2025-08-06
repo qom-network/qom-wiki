@@ -1,11 +1,12 @@
 ---
 title: GitHub Guide For Beginners (With GitHub SSH Setup)
-date: 2025-07-12 00:00:00+00:00
-draft: false
-toc: false
-images:
-tags: 
+type: docs
+prev: 
+next: 
+sidebar:
+  open: true
 ---
+
 
 This guide will walk you through:
 
