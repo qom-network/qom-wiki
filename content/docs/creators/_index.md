@@ -9,6 +9,6 @@ sidebar:
 
 Tools and guides to build your dreams on QL1.
 
-- ### [Way to launch your site](HowToLaunchSite)
-- ### [GitHub Guide For Beginners (With GitHub SSH Setup)](GitGuide)
+- ### [Way to launch your site](./HowToLaunchSite.md)
+- ### [GitHub Guide For Beginners (With GitHub SSH Setup)](GitGuide.md)
 - ### [Basic Usage Of CLI for Beginners](HowToUseCLI)
